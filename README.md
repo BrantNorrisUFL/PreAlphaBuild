@@ -1,2 +1,2 @@
 # PreAlphaBuild
-This is the code that I utilized to being exploring, learning, and testing the Python libraries that our team will be utilizing for this research project (primarily Qiskit and QuTiP)
+This is the code that I utilized to being exploring, learning, and testing the Python libraries that our team will be utilizing for this research project (primarily Qiskit and QuTiP). These libraries are exceptionally useful for simulating quantum logic and behavior. Utilizing them will allow us to accurately simulate the states, logic, attributes, and coherence of our Graphene-based NEMS device.
